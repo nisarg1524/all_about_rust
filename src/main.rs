@@ -6,5 +6,6 @@ pub use HelloWorld::*;
 
 
 fn main() {
-    Comments::my_comments();   
+    // Comments::my_comments();   
+    Format_print::format_print();
 }
